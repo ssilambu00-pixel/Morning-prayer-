@@ -1,0 +1,6 @@
+{
+  "name": "Tamil School Morning Assembly Poster Generator & PDF Exporter",
+  "description": "Premium A4 portrait educational posters for Tamil Nadu Government School Morning Assembly with 9 authentic daily sections and instant PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
